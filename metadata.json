@@ -1,0 +1,926 @@
+{
+  "translations": [
+    {
+      "id": "sq.nahi",
+      "name": "Efendi Nahi",
+      "author": "Hasan Efendi Nahi",
+      "language": "Albanian",
+      "fileName": "sq.nahi.txt",
+      "downloadDate": "2025-09-03T22:35:16.857481"
+    },
+    {
+      "id": "sq.mehdiu",
+      "name": "Feti Mehdiu",
+      "author": "Feti Mehdiu",
+      "language": "Albanian",
+      "fileName": "sq.mehdiu.txt",
+      "downloadDate": "2025-09-03T22:35:19.798921"
+    },
+    {
+      "id": "sq.ahmeti",
+      "name": "Sherif Ahmeti",
+      "author": "Sherif Ahmeti",
+      "language": "Albanian",
+      "fileName": "sq.ahmeti.txt",
+      "downloadDate": "2025-09-03T22:35:22.807928"
+    },
+    {
+      "id": "ber.mensur",
+      "name": "At Mensur",
+      "author": "Ramdane At Mansour",
+      "language": "Amazigh",
+      "fileName": "ber.mensur.txt",
+      "downloadDate": "2025-09-03T22:35:25.811703"
+    },
+    {
+      "id": "ar.jalalayn",
+      "name": "تفسير الجلالين",
+      "author": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+      "language": "Arabic",
+      "fileName": "ar.jalalayn.txt",
+      "downloadDate": "2025-09-03T22:35:29.213556"
+    },
+    {
+      "id": "ar.muyassar",
+      "name": "تفسير المیسر",
+      "author": "King Fahad Quran Complex",
+      "language": "Arabic",
+      "fileName": "ar.muyassar.txt",
+      "downloadDate": "2025-09-03T22:35:32.613700"
+    },
+    {
+      "id": "am.sadiq",
+      "name": "ሳዲቅ & ሳኒ ሐቢብ",
+      "author": "Muhammed Sadiq and Muhammed Sani Habib",
+      "language": "Amharic",
+      "fileName": "am.sadiq.txt",
+      "downloadDate": "2025-09-03T22:35:35.672921"
+    },
+    {
+      "id": "az.mammadaliyev",
+      "name": "Məmmədəliyev & Bünyadov",
+      "author": "Vasim Mammadaliyev and Ziya Bunyadov",
+      "language": "Azerbaijani",
+      "fileName": "az.mammadaliyev.txt",
+      "downloadDate": "2025-09-03T22:35:38.837161"
+    },
+    {
+      "id": "az.musayev",
+      "name": "Musayev",
+      "author": "Alikhan Musayev",
+      "language": "Azerbaijani",
+      "fileName": "az.musayev.txt",
+      "downloadDate": "2025-09-03T22:35:41.888116"
+    },
+    {
+      "id": "bn.hoque",
+      "name": "জহুরুল হক",
+      "author": "Zohurul Hoque",
+      "language": "Bengali",
+      "fileName": "bn.hoque.txt",
+      "downloadDate": "2025-09-03T22:35:45.012805"
+    },
+    {
+      "id": "bn.bengali",
+      "name": "মুহিউদ্দীন খান",
+      "author": "Muhiuddin Khan",
+      "language": "Bengali",
+      "fileName": "bn.bengali.txt",
+      "downloadDate": "2025-09-03T22:35:48.081874"
+    },
+    {
+      "id": "bs.korkut",
+      "name": "Korkut",
+      "author": "Besim Korkut",
+      "language": "Bosnian",
+      "fileName": "bs.korkut.txt",
+      "downloadDate": "2025-09-03T22:35:51.090997"
+    },
+    {
+      "id": "bs.mlivo",
+      "name": "Mlivo",
+      "author": "Mustafa Mlivo",
+      "language": "Bosnian",
+      "fileName": "bs.mlivo.txt",
+      "downloadDate": "2025-09-03T22:35:54.283313"
+    },
+    {
+      "id": "bg.theophanov",
+      "name": "Теофанов",
+      "author": "Tzvetan Theophanov",
+      "language": "Bulgarian",
+      "fileName": "bg.theophanov.txt",
+      "downloadDate": "2025-09-03T22:35:57.445641"
+    },
+    {
+      "id": "zh.jian",
+      "name": "Ma Jian",
+      "author": "Ma Jian",
+      "language": "Chinese",
+      "fileName": "zh.jian.txt",
+      "downloadDate": "2025-09-03T22:36:00.378944"
+    },
+    {
+      "id": "zh.majian",
+      "name": "Ma Jian (Traditional)",
+      "author": "Ma Jian",
+      "language": "Chinese",
+      "fileName": "zh.majian.txt",
+      "downloadDate": "2025-09-03T22:36:03.538963"
+    },
+    {
+      "id": "cs.hrbek",
+      "name": "Hrbek",
+      "author": "Preklad I. Hrbek",
+      "language": "Czech",
+      "fileName": "cs.hrbek.txt",
+      "downloadDate": "2025-09-03T22:36:06.556318"
+    },
+    {
+      "id": "cs.nykl",
+      "name": "Nykl",
+      "author": "A. R. Nykl",
+      "language": "Czech",
+      "fileName": "cs.nykl.txt",
+      "downloadDate": "2025-09-03T22:36:09.542541"
+    },
+    {
+      "id": "dv.divehi",
+      "name": "ދިވެހި",
+      "author": "Office of the President of Maldives",
+      "language": "Divehi",
+      "fileName": "dv.divehi.txt",
+      "downloadDate": "2025-09-03T22:36:12.752944"
+    },
+    {
+      "id": "nl.keyzer",
+      "name": "Keyzer",
+      "author": "Salomo Keyzer",
+      "language": "Dutch",
+      "fileName": "nl.keyzer.txt",
+      "downloadDate": "2025-09-03T22:36:15.917879"
+    },
+    {
+      "id": "nl.leemhuis",
+      "name": "Leemhuis",
+      "author": "Fred Leemhuis",
+      "language": "Dutch",
+      "fileName": "nl.leemhuis.txt",
+      "downloadDate": "2025-09-03T22:36:18.850462"
+    },
+    {
+      "id": "nl.siregar",
+      "name": "Siregar",
+      "author": "Sofian S. Siregar",
+      "language": "Dutch",
+      "fileName": "nl.siregar.txt",
+      "downloadDate": "2025-09-03T22:36:21.911765"
+    },
+    {
+      "id": "en.ahmedali",
+      "name": "Ahmed Ali",
+      "author": "Ahmed Ali",
+      "language": "English",
+      "fileName": "en.ahmedali.txt",
+      "downloadDate": "2025-09-03T22:36:24.967401"
+    },
+    {
+      "id": "en.ahmedraza",
+      "name": "Ahmed Raza Khan",
+      "author": "Ahmed Raza Khan",
+      "language": "English",
+      "fileName": "en.ahmedraza.txt",
+      "downloadDate": "2025-09-03T22:36:28.047241"
+    },
+    {
+      "id": "en.arberry",
+      "name": "Arberry",
+      "author": "A. J. Arberry",
+      "language": "English",
+      "fileName": "en.arberry.txt",
+      "downloadDate": "2025-09-03T22:36:31.083118"
+    },
+    {
+      "id": "en.daryabadi",
+      "name": "Daryabadi",
+      "author": "Abdul Majid Daryabadi",
+      "language": "English",
+      "fileName": "en.daryabadi.txt",
+      "downloadDate": "2025-09-03T22:36:34.046350"
+    },
+    {
+      "id": "en.hilali",
+      "name": "Hilali & Khan",
+      "author": "Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan",
+      "language": "English",
+      "fileName": "en.hilali.txt",
+      "downloadDate": "2025-09-03T22:36:37.137996"
+    },
+    {
+      "id": "en.itani",
+      "name": "Itani",
+      "author": "Talal Itani",
+      "language": "English",
+      "fileName": "en.itani.txt",
+      "downloadDate": "2025-09-03T22:36:40.082906"
+    },
+    {
+      "id": "en.maududi",
+      "name": "Maududi",
+      "author": "Abul Ala Maududi",
+      "language": "English",
+      "fileName": "en.maududi.txt",
+      "downloadDate": "2025-09-03T22:36:43.086487"
+    },
+    {
+      "id": "en.mubarakpuri",
+      "name": "Mubarakpuri",
+      "author": "Safi-ur-Rahman al-Mubarakpuri",
+      "language": "English",
+      "fileName": "en.mubarakpuri.txt",
+      "downloadDate": "2025-09-03T22:36:46.099248"
+    },
+    {
+      "id": "en.pickthall",
+      "name": "Pickthall",
+      "author": "Mohammed Marmaduke William Pickthall",
+      "language": "English",
+      "fileName": "en.pickthall.txt",
+      "downloadDate": "2025-09-03T22:36:49.537566"
+    },
+    {
+      "id": "en.qarai",
+      "name": "Qarai",
+      "author": "Ali Quli Qarai",
+      "language": "English",
+      "fileName": "en.qarai.txt",
+      "downloadDate": "2025-09-03T22:36:52.570690"
+    },
+    {
+      "id": "en.qaribullah",
+      "name": "Qaribullah & Darwish",
+      "author": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
+      "language": "English",
+      "fileName": "en.qaribullah.txt",
+      "downloadDate": "2025-09-03T22:36:55.921319"
+    },
+    {
+      "id": "en.sahih",
+      "name": "Saheeh International",
+      "author": "Saheeh International",
+      "language": "English",
+      "fileName": "en.sahih.txt",
+      "downloadDate": "2025-09-03T22:36:58.882153"
+    },
+    {
+      "id": "en.sarwar",
+      "name": "Sarwar",
+      "author": "Muhammad Sarwar",
+      "language": "English",
+      "fileName": "en.sarwar.txt",
+      "downloadDate": "2025-09-03T22:37:01.935681"
+    },
+    {
+      "id": "en.shakir",
+      "name": "Shakir",
+      "author": "Mohammad Habib Shakir",
+      "language": "English",
+      "fileName": "en.shakir.txt",
+      "downloadDate": "2025-09-03T22:37:04.978786"
+    },
+    {
+      "id": "en.transliteration",
+      "name": "Transliteration",
+      "author": "English Transliteration",
+      "language": "English",
+      "fileName": "en.transliteration.txt",
+      "downloadDate": "2025-09-03T22:37:07.940491"
+    },
+    {
+      "id": "en.wahiduddin",
+      "name": "Wahiduddin Khan",
+      "author": "Wahiduddin Khan",
+      "language": "English",
+      "fileName": "en.wahiduddin.txt",
+      "downloadDate": "2025-09-03T22:37:11.233912"
+    },
+    {
+      "id": "en.yusufali",
+      "name": "Yusuf Ali",
+      "author": "Abdullah Yusuf Ali",
+      "language": "English",
+      "fileName": "en.yusufali.txt",
+      "downloadDate": "2025-09-03T22:37:14.261787"
+    },
+    {
+      "id": "fr.hamidullah",
+      "name": "Hamidullah",
+      "author": "Muhammad Hamidullah",
+      "language": "French",
+      "fileName": "fr.hamidullah.txt",
+      "downloadDate": "2025-09-03T22:37:17.217259"
+    },
+    {
+      "id": "de.aburida",
+      "name": "Abu Rida",
+      "author": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
+      "language": "German",
+      "fileName": "de.aburida.txt",
+      "downloadDate": "2025-09-03T22:37:20.284938"
+    },
+    {
+      "id": "de.bubenheim",
+      "name": "Bubenheim & Elyas",
+      "author": "A. S. F. Bubenheim and N. Elyas",
+      "language": "German",
+      "fileName": "de.bubenheim.txt",
+      "downloadDate": "2025-09-03T22:37:23.494306"
+    },
+    {
+      "id": "de.khoury",
+      "name": "Khoury",
+      "author": "Adel Theodor Khoury",
+      "language": "German",
+      "fileName": "de.khoury.txt",
+      "downloadDate": "2025-09-03T22:37:26.522272"
+    },
+    {
+      "id": "de.zaidan",
+      "name": "Zaidan",
+      "author": "Amir Zaidan",
+      "language": "German",
+      "fileName": "de.zaidan.txt",
+      "downloadDate": "2025-09-03T22:37:29.513205"
+    },
+    {
+      "id": "ha.gumi",
+      "name": "Gumi",
+      "author": "Abubakar Mahmoud Gumi",
+      "language": "Hausa",
+      "fileName": "ha.gumi.txt",
+      "downloadDate": "2025-09-03T22:37:32.498084"
+    },
+    {
+      "id": "hi.farooq",
+      "name": "फ़ारूक़ ख़ान & अहमद",
+      "author": "Muhammad Farooq Khan and Muhammad Ahmed",
+      "language": "Hindi",
+      "fileName": "hi.farooq.txt",
+      "downloadDate": "2025-09-03T22:37:35.684212"
+    },
+    {
+      "id": "hi.hindi",
+      "name": "फ़ारूक़ ख़ान & नदवी",
+      "author": "Suhel Farooq Khan and Saifur Rahman Nadwi",
+      "language": "Hindi",
+      "fileName": "hi.hindi.txt",
+      "downloadDate": "2025-09-03T22:37:39.570389"
+    },
+    {
+      "id": "id.indonesian",
+      "name": "Bahasa Indonesia",
+      "author": "Indonesian Ministry of Religious Affairs",
+      "language": "Indonesian",
+      "fileName": "id.indonesian.txt",
+      "downloadDate": "2025-09-03T22:37:42.599695"
+    },
+    {
+      "id": "id.muntakhab",
+      "name": "Quraish Shihab",
+      "author": "Muhammad Quraish Shihab et al.",
+      "language": "Indonesian",
+      "fileName": "id.muntakhab.txt",
+      "downloadDate": "2025-09-03T22:37:46.008216"
+    },
+    {
+      "id": "id.jalalayn",
+      "name": "Tafsir Jalalayn",
+      "author": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+      "language": "Indonesian",
+      "fileName": "id.jalalayn.txt",
+      "downloadDate": "2025-09-03T22:37:49.354287"
+    },
+    {
+      "id": "it.piccardo",
+      "name": "Piccardo",
+      "author": "Hamza Roberto Piccardo",
+      "language": "Italian",
+      "fileName": "it.piccardo.txt",
+      "downloadDate": "2025-09-03T22:37:52.291737"
+    },
+    {
+      "id": "ja.japanese",
+      "name": "Japanese",
+      "author": "Unknown",
+      "language": "Japanese",
+      "fileName": "ja.japanese.txt",
+      "downloadDate": "2025-09-03T22:37:55.294242"
+    },
+    {
+      "id": "ko.korean",
+      "name": "Korean",
+      "author": "Unknown",
+      "language": "Korean",
+      "fileName": "ko.korean.txt",
+      "downloadDate": "2025-09-03T22:37:58.376893"
+    },
+    {
+      "id": "ku.asan",
+      "name": "ته‌فسیری ئاسان",
+      "author": "Burhan Muhammad-Amin",
+      "language": "Kurdish",
+      "fileName": "ku.asan.txt",
+      "downloadDate": "2025-09-03T22:38:01.847731"
+    },
+    {
+      "id": "ms.basmeih",
+      "name": "Basmeih",
+      "author": "Abdullah Muhammad Basmeih",
+      "language": "Malay",
+      "fileName": "ms.basmeih.txt",
+      "downloadDate": "2025-09-03T22:38:04.931122"
+    },
+    {
+      "id": "ml.abdulhameed",
+      "name": "അബ്ദുല്‍ ഹമീദ് & പറപ്പൂര്‍",
+      "author": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+      "language": "Malayalam",
+      "fileName": "ml.abdulhameed.txt",
+      "downloadDate": "2025-09-03T22:38:08.063893"
+    },
+    {
+      "id": "ml.karakunnu",
+      "name": "കാരകുന്ന് & എളയാവൂര്",
+      "author": "Muhammad Karakunnu and Vanidas Elayavoor",
+      "language": "Malayalam",
+      "fileName": "ml.karakunnu.txt",
+      "downloadDate": "2025-09-03T22:38:11.230865"
+    },
+    {
+      "id": "no.berg",
+      "name": "Einar Berg",
+      "author": "Einar Berg",
+      "language": "Norwegian",
+      "fileName": "no.berg.txt",
+      "downloadDate": "2025-09-03T22:38:14.780780"
+    },
+    {
+      "id": "ps.abdulwali",
+      "name": "عبدالولي",
+      "author": "Abdulwali Khan",
+      "language": "Pashto",
+      "fileName": "ps.abdulwali.txt",
+      "downloadDate": "2025-09-03T22:38:17.896518"
+    },
+    {
+      "id": "fa.ansarian",
+      "name": "انصاریان",
+      "author": "Hussain Ansarian",
+      "language": "Persian",
+      "fileName": "fa.ansarian.txt",
+      "downloadDate": "2025-09-03T22:38:21.149519"
+    },
+    {
+      "id": "fa.ayati",
+      "name": "آیتی",
+      "author": "AbdolMohammad Ayati",
+      "language": "Persian",
+      "fileName": "fa.ayati.txt",
+      "downloadDate": "2025-09-03T22:38:24.142556"
+    },
+    {
+      "id": "fa.bahrampour",
+      "name": "بهرام‌پور",
+      "author": "Abolfazl Bahrampour",
+      "language": "Persian",
+      "fileName": "fa.bahrampour.txt",
+      "downloadDate": "2025-09-03T22:38:27.272042"
+    },
+    {
+      "id": "fa.gharaati",
+      "name": "قرائتی",
+      "author": "Mohsen Gharaati",
+      "language": "Persian",
+      "fileName": "fa.gharaati.txt",
+      "downloadDate": "2025-09-03T22:38:30.451594"
+    },
+    {
+      "id": "fa.ghomshei",
+      "name": "الهی قمشه‌ای",
+      "author": "Mahdi Elahi Ghomshei",
+      "language": "Persian",
+      "fileName": "fa.ghomshei.txt",
+      "downloadDate": "2025-09-03T22:38:33.581223"
+    },
+    {
+      "id": "fa.khorramdel",
+      "name": "خرمدل",
+      "author": "Mostafa Khorramdel",
+      "language": "Persian",
+      "fileName": "fa.khorramdel.txt",
+      "downloadDate": "2025-09-03T22:38:37.498436"
+    },
+    {
+      "id": "fa.khorramshahi",
+      "name": "خرمشاهی",
+      "author": "Baha'oddin Khorramshahi",
+      "language": "Persian",
+      "fileName": "fa.khorramshahi.txt",
+      "downloadDate": "2025-09-03T22:38:40.637714"
+    },
+    {
+      "id": "fa.sadeqi",
+      "name": "صادقی تهرانی",
+      "author": "Mohammad Sadeqi Tehrani",
+      "language": "Persian",
+      "fileName": "fa.sadeqi.txt",
+      "downloadDate": "2025-09-03T22:38:43.797918"
+    },
+    {
+      "id": "fa.safavi",
+      "name": "صفوی",
+      "author": "Sayyed Mohammad Reza Safavi",
+      "language": "Persian",
+      "fileName": "fa.safavi.txt",
+      "downloadDate": "2025-09-03T22:38:46.902031"
+    },
+    {
+      "id": "fa.fooladvand",
+      "name": "فولادوند",
+      "author": "Mohammad Mahdi Fooladvand",
+      "language": "Persian",
+      "fileName": "fa.fooladvand.txt",
+      "downloadDate": "2025-09-03T22:38:50.009859"
+    },
+    {
+      "id": "fa.mojtabavi",
+      "name": "مجتبوی",
+      "author": "Sayyed Jalaloddin Mojtabavi",
+      "language": "Persian",
+      "fileName": "fa.mojtabavi.txt",
+      "downloadDate": "2025-09-03T22:38:53.074280"
+    },
+    {
+      "id": "fa.moezzi",
+      "name": "معزی",
+      "author": "Mohammad Kazem Moezzi",
+      "language": "Persian",
+      "fileName": "fa.moezzi.txt",
+      "downloadDate": "2025-09-03T22:38:56.195707"
+    },
+    {
+      "id": "fa.makarem",
+      "name": "مکارم شیرازی",
+      "author": "Naser Makarem Shirazi",
+      "language": "Persian",
+      "fileName": "fa.makarem.txt",
+      "downloadDate": "2025-09-03T22:38:59.235665"
+    },
+    {
+      "id": "pl.bielawskiego",
+      "name": "Bielawskiego",
+      "author": "Józefa Bielawskiego",
+      "language": "Polish",
+      "fileName": "pl.bielawskiego.txt",
+      "downloadDate": "2025-09-03T22:39:02.198150"
+    },
+    {
+      "id": "pt.elhayek",
+      "name": "El-Hayek",
+      "author": "Samir El-Hayek",
+      "language": "Portuguese",
+      "fileName": "pt.elhayek.txt",
+      "downloadDate": "2025-09-03T22:39:05.173269"
+    },
+    {
+      "id": "ro.grigore",
+      "name": "Grigore",
+      "author": "George Grigore",
+      "language": "Romanian",
+      "fileName": "ro.grigore.txt",
+      "downloadDate": "2025-09-03T22:39:08.147789"
+    },
+    {
+      "id": "ru.abuadel",
+      "name": "Абу Адель",
+      "author": "Abu Adel",
+      "language": "Russian",
+      "fileName": "ru.abuadel.txt",
+      "downloadDate": "2025-09-03T22:39:11.832633"
+    },
+    {
+      "id": "ru.muntahab",
+      "name": "Аль-Мунтахаб",
+      "author": "Ministry of Awqaf, Egypt",
+      "language": "Russian",
+      "fileName": "ru.muntahab.txt",
+      "downloadDate": "2025-09-03T22:39:15.217105"
+    },
+    {
+      "id": "ru.kalam",
+      "name": "Калям Шариф",
+      "author": "Muslim Religious Board of the Republiс of Tatarstan",
+      "language": "Russian",
+      "fileName": "ru.kalam.txt",
+      "downloadDate": "2025-09-03T22:39:18.441442"
+    },
+    {
+      "id": "ru.krachkovsky",
+      "name": "Крачковский",
+      "author": "Ignaty Yulianovich Krachkovsky",
+      "language": "Russian",
+      "fileName": "ru.krachkovsky.txt",
+      "downloadDate": "2025-09-03T22:39:21.538015"
+    },
+    {
+      "id": "ru.kuliev",
+      "name": "Кулиев",
+      "author": "Elmir Kuliev",
+      "language": "Russian",
+      "fileName": "ru.kuliev.txt",
+      "downloadDate": "2025-09-03T22:39:24.642898"
+    },
+    {
+      "id": "ru.kuliev-alsaadi",
+      "name": "Кулиев + ас-Саади",
+      "author": "Elmir Kuliev (with Abd ar-Rahman as-Saadi's commentaries)",
+      "language": "Russian",
+      "fileName": "ru.kuliev-alsaadi.txt",
+      "downloadDate": "2025-09-03T22:39:29.142971"
+    },
+    {
+      "id": "ru.osmanov",
+      "name": "Османов",
+      "author": "Magomed-Nuri Osmanovich Osmanov",
+      "language": "Russian",
+      "fileName": "ru.osmanov.txt",
+      "downloadDate": "2025-09-03T22:39:32.414531"
+    },
+    {
+      "id": "ru.porokhova",
+      "name": "Порохова",
+      "author": "V. Porokhova",
+      "language": "Russian",
+      "fileName": "ru.porokhova.txt",
+      "downloadDate": "2025-09-03T22:39:35.597334"
+    },
+    {
+      "id": "ru.sablukov",
+      "name": "Саблуков",
+      "author": "Gordy Semyonovich Sablukov",
+      "language": "Russian",
+      "fileName": "ru.sablukov.txt",
+      "downloadDate": "2025-09-03T22:39:38.662725"
+    },
+    {
+      "id": "sd.amroti",
+      "name": "امروٽي",
+      "author": "Taj Mehmood Amroti",
+      "language": "Sindhi",
+      "fileName": "sd.amroti.txt",
+      "downloadDate": "2025-09-03T22:39:41.744484"
+    },
+    {
+      "id": "so.abduh",
+      "name": "Abduh",
+      "author": "Mahmud Muhammad Abduh",
+      "language": "Somali",
+      "fileName": "so.abduh.txt",
+      "downloadDate": "2025-09-03T22:39:44.752695"
+    },
+    {
+      "id": "es.bornez",
+      "name": "Bornez",
+      "author": "Raúl González Bórnez",
+      "language": "Spanish",
+      "fileName": "es.bornez.txt",
+      "downloadDate": "2025-09-03T22:39:47.849015"
+    },
+    {
+      "id": "es.cortes",
+      "name": "Cortes",
+      "author": "Julio Cortes",
+      "language": "Spanish",
+      "fileName": "es.cortes.txt",
+      "downloadDate": "2025-09-03T22:39:51.059340"
+    },
+    {
+      "id": "es.garcia",
+      "name": "Garcia",
+      "author": "Muhammad Isa García",
+      "language": "Spanish",
+      "fileName": "es.garcia.txt",
+      "downloadDate": "2025-09-03T22:39:54.039060"
+    },
+    {
+      "id": "sw.barwani",
+      "name": "Al-Barwani",
+      "author": "Ali Muhsin Al-Barwani",
+      "language": "Swahili",
+      "fileName": "sw.barwani.txt",
+      "downloadDate": "2025-09-03T22:39:57.039432"
+    },
+    {
+      "id": "sv.bernstrom",
+      "name": "Bernström",
+      "author": "Knut Bernström",
+      "language": "Swedish",
+      "fileName": "sv.bernstrom.txt",
+      "downloadDate": "2025-09-03T22:40:00.162092"
+    },
+    {
+      "id": "tg.ayati",
+      "name": "Оятӣ",
+      "author": "AbdolMohammad Ayati",
+      "language": "Tajik",
+      "fileName": "tg.ayati.txt",
+      "downloadDate": "2025-09-03T22:40:03.221633"
+    },
+    {
+      "id": "ta.tamil",
+      "name": "ஜான் டிரஸ்ட்",
+      "author": "Jan Turst Foundation",
+      "language": "Tamil",
+      "fileName": "ta.tamil.txt",
+      "downloadDate": "2025-09-03T22:40:06.679801"
+    },
+    {
+      "id": "tt.nugman",
+      "name": "Yakub Ibn Nugman",
+      "author": "Yakub Ibn Nugman",
+      "language": "Tatar",
+      "fileName": "tt.nugman.txt",
+      "downloadDate": "2025-09-03T22:40:10.074004"
+    },
+    {
+      "id": "th.thai",
+      "name": "ภาษาไทย",
+      "author": "King Fahad Quran Complex",
+      "language": "Thai",
+      "fileName": "th.thai.txt",
+      "downloadDate": "2025-09-03T22:40:13.313164"
+    },
+    {
+      "id": "tr.golpinarli",
+      "name": "Abdulbakî Gölpınarlı",
+      "author": "Abdulbaki Golpinarli",
+      "language": "Turkish",
+      "fileName": "tr.golpinarli.txt",
+      "downloadDate": "2025-09-03T22:40:16.287952"
+    },
+    {
+      "id": "tr.bulac",
+      "name": "Alİ Bulaç",
+      "author": "Alİ Bulaç",
+      "language": "Turkish",
+      "fileName": "tr.bulac.txt",
+      "downloadDate": "2025-09-03T22:40:19.360264"
+    },
+    {
+      "id": "tr.transliteration",
+      "name": "Çeviriyazı",
+      "author": "Muhammet Abay",
+      "language": "Turkish",
+      "fileName": "tr.transliteration.txt",
+      "downloadDate": "2025-09-03T22:40:22.303082"
+    },
+    {
+      "id": "tr.diyanet",
+      "name": "Diyanet İşleri",
+      "author": "Diyanet Isleri",
+      "language": "Turkish",
+      "fileName": "tr.diyanet.txt",
+      "downloadDate": "2025-09-03T22:40:25.322610"
+    },
+    {
+      "id": "tr.vakfi",
+      "name": "Diyanet Vakfı",
+      "author": "Diyanet Vakfi",
+      "language": "Turkish",
+      "fileName": "tr.vakfi.txt",
+      "downloadDate": "2025-09-03T22:40:28.370731"
+    },
+    {
+      "id": "tr.yuksel",
+      "name": "Edip Yüksel",
+      "author": "Edip Yüksel",
+      "language": "Turkish",
+      "fileName": "tr.yuksel.txt",
+      "downloadDate": "2025-09-03T22:40:31.470806"
+    },
+    {
+      "id": "tr.yazir",
+      "name": "Elmalılı Hamdi Yazır",
+      "author": "Elmalili Hamdi Yazir",
+      "language": "Turkish",
+      "fileName": "tr.yazir.txt",
+      "downloadDate": "2025-09-03T22:40:34.467149"
+    },
+    {
+      "id": "tr.ozturk",
+      "name": "Öztürk",
+      "author": "Yasar Nuri Ozturk",
+      "language": "Turkish",
+      "fileName": "tr.ozturk.txt",
+      "downloadDate": "2025-09-03T22:40:37.513432"
+    },
+    {
+      "id": "tr.yildirim",
+      "name": "Suat Yıldırım",
+      "author": "Suat Yildirim",
+      "language": "Turkish",
+      "fileName": "tr.yildirim.txt",
+      "downloadDate": "2025-09-03T22:40:40.571663"
+    },
+    {
+      "id": "tr.ates",
+      "name": "Süleyman Ateş",
+      "author": "Suleyman Ates",
+      "language": "Turkish",
+      "fileName": "tr.ates.txt",
+      "downloadDate": "2025-09-03T22:40:43.546904"
+    },
+    {
+      "id": "ur.maududi",
+      "name": "ابوالاعلی مودودی",
+      "author": "Abul A'ala Maududi",
+      "language": "Urdu",
+      "fileName": "ur.maududi.txt",
+      "downloadDate": "2025-09-03T22:40:46.599781"
+    },
+    {
+      "id": "ur.kanzuliman",
+      "name": "احمد رضا خان",
+      "author": "Ahmed Raza Khan",
+      "language": "Urdu",
+      "fileName": "ur.kanzuliman.txt",
+      "downloadDate": "2025-09-03T22:40:49.677457"
+    },
+    {
+      "id": "ur.ahmedali",
+      "name": "احمد علی",
+      "author": "Ahmed Ali",
+      "language": "Urdu",
+      "fileName": "ur.ahmedali.txt",
+      "downloadDate": "2025-09-03T22:40:52.916231"
+    },
+    {
+      "id": "ur.jalandhry",
+      "name": "جالندہری",
+      "author": "Fateh Muhammad Jalandhry",
+      "language": "Urdu",
+      "fileName": "ur.jalandhry.txt",
+      "downloadDate": "2025-09-03T22:40:55.967046"
+    },
+    {
+      "id": "ur.qadri",
+      "name": "طاہر القادری",
+      "author": "Tahir ul Qadri",
+      "language": "Urdu",
+      "fileName": "ur.qadri.txt",
+      "downloadDate": "2025-09-03T22:40:59.134887"
+    },
+    {
+      "id": "ur.jawadi",
+      "name": "علامہ جوادی",
+      "author": "Syed Zeeshan Haider Jawadi",
+      "language": "Urdu",
+      "fileName": "ur.jawadi.txt",
+      "downloadDate": "2025-09-03T22:41:02.225179"
+    },
+    {
+      "id": "ur.junagarhi",
+      "name": "محمد جوناگڑھی",
+      "author": "Muhammad Junagarhi",
+      "language": "Urdu",
+      "fileName": "ur.junagarhi.txt",
+      "downloadDate": "2025-09-03T22:41:05.304435"
+    },
+    {
+      "id": "ur.najafi",
+      "name": "محمد حسین نجفی",
+      "author": "Muhammad Hussain Najafi",
+      "language": "Urdu",
+      "fileName": "ur.najafi.txt",
+      "downloadDate": "2025-09-03T22:41:08.342288"
+    },
+    {
+      "id": "ug.saleh",
+      "name": "محمد صالح",
+      "author": "Muhammad Saleh",
+      "language": "Uyghur",
+      "fileName": "ug.saleh.txt",
+      "downloadDate": "2025-09-03T22:41:11.513122"
+    },
+    {
+      "id": "uz.sodik",
+      "name": "Мухаммад Содик",
+      "author": "Muhammad Sodik Muhammad Yusuf",
+      "language": "Uzbek",
+      "fileName": "uz.sodik.txt",
+      "downloadDate": "2025-09-03T22:41:14.844140"
+    }
+  ],
+  "lastUpdated": "2025-09-03T22:41:15.346282",
+  "totalCount": 115
+}

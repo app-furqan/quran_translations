@@ -1,0 +1,38 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'translations/**.txt'
+      - 'metadata.json'
+  workflow_dispatch:
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Purge jsDelivr CDN cache for translations and metadata
+        run: |
+          REPO="app-furqan/quran_translations"
+          BRANCH="main"
+          BASE_URL="https://purge.jsdelivr.net/gh/${REPO}@${BRANCH}"
+
+          # Discover every translation txt file and metadata.json so they are purged automatically
+          mapfile -t FILES < <(find translations -type f -name '*.txt' | sort; find . -maxdepth 1 -type f -name 'metadata.json' | sed 's|^\./||')
+
+          if [ "${#FILES[@]}" -eq 0 ]; then
+            echo "No files found under translations/ or root"
+            exit 0
+          fi
+
+          for FILE in "${FILES[@]}"; do
+            URL="${BASE_URL}/${FILE}"
+            echo "Purging: $URL"
+            HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
+            echo "  -> HTTP $HTTP_STATUS"
+          done
