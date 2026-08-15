@@ -6,7 +6,6 @@ This repository is a local backup and collection of Quran translations sourced f
 
 - **Source:** [Tanzil.net](https://tanzil.net/trans/)
 - **Format:** Plain text verse-by-verse (`surah|ayah|text`)
-- **Metadata:** Available in [`metadata.json`](metadata.json)
 
 ## Notes & Modifications
 
